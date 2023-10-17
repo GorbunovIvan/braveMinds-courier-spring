@@ -2,6 +2,7 @@
   "beginningOfWorkDay": "08:00:00",
   "endOfWorkDay": "20:00:00",
   "timeSpentOnDeliveryPoint": "00:10:00",
-  "startingCoordinatesLatitude": "50.3",
-  "startingCoordinatesLongitude": "29.9"
+  "speedKmPerHour": "50",
+  "startingCoordinatesLatitude": "50.457841",
+  "startingCoordinatesLongitude": "30.573016"
 }
